@@ -1,4 +1,4 @@
-<img width="700" height="700" alt="octocat-1779188509706" src="https://github.com/user-attachments/assets/fdb56f1a-09c2-4756-b0bd-af5493f74853" text-align="center"/>
+<img width="1000" height="1000" alt="octocat-1779188509706" src="https://github.com/user-attachments/assets/fdb56f1a-09c2-4756-b0bd-af5493f74853" text-align="center"/>
 <br>
 
 <div align="center">
